@@ -5,12 +5,6 @@
         "sale_price": 62.99,
         "effective_price": 62.99
     },
-    "Yonex Aerosensa 50 Feather Shuttlecocks": {
-        "name": "Yonex Aerosensa 50 Feather Shuttlecocks",
-        "regular_price": 75.4,
-        "sale_price": 58.0,
-        "effective_price": 58.0
-    },
     "Victor x Marvel Avengers New CarbonSonic Synthetic Shuttlecock Set NCS-AVENGERS": {
         "name": "Victor x Marvel Avengers New CarbonSonic Synthetic Shuttlecock Set NCS-AVENGERS",
         "regular_price": 71.49,
@@ -191,8 +185,8 @@
         "sale_price": 30.99,
         "effective_price": 30.99
     },
-    "Victor New CarbonSonic Pro Shuttlecock (NCS-PRO) (12 pc) (PREORDER - Minimum 5 or more)": {
-        "name": "Victor New CarbonSonic Pro Shuttlecock (NCS-PRO) (12 pc) (PREORDER - Minimum 5 or more)",
+    "Victor New CarbonSonic Pro Shuttlecock (NCS-PRO) (12 pc)": {
+        "name": "Victor New CarbonSonic Pro Shuttlecock (NCS-PRO) (12 pc)",
         "regular_price": 40.29,
         "sale_price": 30.99,
         "effective_price": 30.99
@@ -233,12 +227,6 @@
         "sale_price": 23.99,
         "effective_price": 23.99
     },
-    "LingMei 10 Shuttlecock": {
-        "name": "LingMei 10 Shuttlecock",
-        "regular_price": 29.89,
-        "sale_price": 22.99,
-        "effective_price": 22.99
-    },
     "LingMei Practice Shuttlecock": {
         "name": "LingMei Practice Shuttlecock",
         "regular_price": 25.99,
@@ -257,29 +245,11 @@
         "sale_price": 16.0,
         "effective_price": 16.0
     },
-    "Victor VSN-3000 Nylon Shuttlecock White (6 pc)": {
-        "name": "Victor VSN-3000 Nylon Shuttlecock White (6 pc)",
-        "regular_price": 20.79,
-        "sale_price": 15.99,
-        "effective_price": 15.99
-    },
     "VICTOR VNS-3000 Yellow Nylon Shuttlecock": {
         "name": "VICTOR VNS-3000 Yellow Nylon Shuttlecock",
         "regular_price": 20.79,
         "sale_price": 15.99,
         "effective_price": 15.99
-    },
-    "Victor VSN-2000 Nylon Shuttlecock White (6 pc)": {
-        "name": "Victor VSN-2000 Nylon Shuttlecock White (6 pc)",
-        "regular_price": 19.49,
-        "sale_price": 14.99,
-        "effective_price": 14.99
-    },
-    "Victor Nylon 1000 Shuttlecocks Yellow Medium Speed": {
-        "name": "Victor Nylon 1000 Shuttlecocks Yellow Medium Speed",
-        "regular_price": 19.49,
-        "sale_price": 14.99,
-        "effective_price": 14.99
     },
     "Victor VNS-2000 Yellow Nylon Shuttlecock": {
         "name": "Victor VNS-2000 Yellow Nylon Shuttlecock",
@@ -317,12 +287,6 @@
         "sale_price": 14.5,
         "effective_price": 14.5
     },
-    "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow)": {
-        "name": "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow)",
-        "regular_price": 18.85,
-        "sale_price": 14.5,
-        "effective_price": 14.5
-    },
     "Yonex Mavis 300 Medium Speed Nylon Shuttlecocks (Yellow)": {
         "name": "Yonex Mavis 300 Medium Speed Nylon Shuttlecocks (Yellow)",
         "regular_price": 16.9,
@@ -353,59 +317,11 @@
         "sale_price": 12.99,
         "effective_price": 12.99
     },
-    "Victor x Doraemon New CarbonSonic Synthetic Shuttlecocks NCSDRM-E (Vibrant Yellow)": {
-        "name": "Victor x Doraemon New CarbonSonic Synthetic Shuttlecocks NCSDRM-E (Vibrant Yellow)",
-        "regular_price": 15.59,
-        "sale_price": 11.99,
-        "effective_price": 11.99
-    },
-    "Victor x Doraemon New CarbonSonic Synthetic Shuttlecocks NCSDRM-M (Deep Sky Blue)": {
-        "name": "Victor x Doraemon New CarbonSonic Synthetic Shuttlecocks NCSDRM-M (Deep Sky Blue)",
-        "regular_price": 15.59,
-        "sale_price": 11.99,
-        "effective_price": 11.99
-    },
-    "Victor x Crayon Shin Chan New CarbonSonic Synthetic Shuttlecock NCS-CS-I (Pink)": {
-        "name": "Victor x Crayon Shin Chan New CarbonSonic Synthetic Shuttlecock NCS-CS-I (Pink)",
-        "regular_price": 15.59,
-        "sale_price": 11.99,
-        "effective_price": 11.99
-    },
-    "Victor x Crayon Shin Chan New CarbonSonic Synthetic Shuttlecock NCS-CS-E (Yellow)": {
-        "name": "Victor x Crayon Shin Chan New CarbonSonic Synthetic Shuttlecock NCS-CS-E (Yellow)",
-        "regular_price": 15.59,
-        "sale_price": 11.99,
-        "effective_price": 11.99
-    },
     "Victor AS-Air Synthetic Shuttle Shuttlecock": {
         "name": "Victor AS-Air Synthetic Shuttle Shuttlecock",
         "regular_price": 12.0,
         "sale_price": 10.99,
         "effective_price": 10.99
-    },
-    "Victor x Dragon Ball Z Super Saiyan 3 New CarbonSonic NCS Synthetic Shuttlecock NCS-DBZ-F (Sodalite Blue)": {
-        "name": "Victor x Dragon Ball Z Super Saiyan 3 New CarbonSonic NCS Synthetic Shuttlecock NCS-DBZ-F (Sodalite Blue)",
-        "regular_price": 12.99,
-        "sale_price": 9.99,
-        "effective_price": 9.99
-    },
-    "Victor x Dragon Ball Z Super Saiyan New CarbonSonic NCS Synthetic Shuttlecock NCS-DBZ-O (Persimmon Orange)": {
-        "name": "Victor x Dragon Ball Z Super Saiyan New CarbonSonic NCS Synthetic Shuttlecock NCS-DBZ-O (Persimmon Orange)",
-        "regular_price": 12.99,
-        "sale_price": 9.99,
-        "effective_price": 9.99
-    },
-    "Victor x Dragon Ball Z Goku New CarbonSonic NCS Synthetic Shuttlecocks NCS-DBZ-G (Apple Green)": {
-        "name": "Victor x Dragon Ball Z Goku New CarbonSonic NCS Synthetic Shuttlecocks NCS-DBZ-G (Apple Green)",
-        "regular_price": 12.99,
-        "sale_price": 9.99,
-        "effective_price": 9.99
-    },
-    "Yonex Mavis 250 Medium Speed  Nylon Shuttlecocks (Yellow)": {
-        "name": "Yonex Mavis 250 Medium Speed  Nylon Shuttlecocks (Yellow)",
-        "regular_price": 11.69,
-        "sale_price": 8.99,
-        "effective_price": 8.99
     },
     "Yonex Mavis 350 Medium Speed Nylon Shuttlecock 3pcs (Yellow)": {
         "name": "Yonex Mavis 350 Medium Speed Nylon Shuttlecock 3pcs (Yellow)",

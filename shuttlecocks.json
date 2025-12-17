@@ -59,11 +59,23 @@
         "sale_price": 42.0,
         "effective_price": 42.0
     },
+    "RSL Ultimate Tournament Shuttlecock": {
+        "name": "RSL Ultimate Tournament Shuttlecock",
+        "regular_price": 53.94,
+        "sale_price": 41.49,
+        "effective_price": 41.49
+    },
     "Yonex Aeroclear 30 Goose Feather Badminton Shuttlecock (PREORDER - 5 or more)": {
         "name": "Yonex Aeroclear 30 Goose Feather Badminton Shuttlecock (PREORDER - 5 or more)",
         "regular_price": 53.3,
         "sale_price": 41.0,
         "effective_price": 41.0
+    },
+    "RSL Supreme Tournament Shuttlecock": {
+        "name": "RSL Supreme Tournament Shuttlecock",
+        "regular_price": 52.64,
+        "sale_price": 40.49,
+        "effective_price": 40.49
     },
     "Victor Master No.5 Feather Shuttlecock": {
         "name": "Victor Master No.5 Feather Shuttlecock",
@@ -77,20 +89,14 @@
         "sale_price": 39.99,
         "effective_price": 39.99
     },
-    "RSL Ultimate Tournament Shuttlecock": {
-        "name": "RSL Ultimate Tournament Shuttlecock",
-        "regular_price": 51.99,
-        "sale_price": 39.99,
-        "effective_price": 39.99
-    },
     "VICTOR Champion NO.1 Feather Shuttlecock": {
         "name": "VICTOR Champion NO.1 Feather Shuttlecock",
         "regular_price": 51.99,
         "sale_price": 39.99,
         "effective_price": 39.99
     },
-    "RSL Supreme Tournament Shuttlecock": {
-        "name": "RSL Supreme Tournament Shuttlecock",
+    "RSL Classic Shuttlecock": {
+        "name": "RSL Classic Shuttlecock",
         "regular_price": 50.69,
         "sale_price": 38.99,
         "effective_price": 38.99
@@ -109,12 +115,6 @@
     },
     "Chaopai Pink Shuttlecock": {
         "name": "Chaopai Pink Shuttlecock",
-        "regular_price": 48.09,
-        "sale_price": 36.99,
-        "effective_price": 36.99
-    },
-    "RSL Classic Shuttlecock": {
-        "name": "RSL Classic Shuttlecock",
         "regular_price": 48.09,
         "sale_price": 36.99,
         "effective_price": 36.99
@@ -161,6 +161,12 @@
         "sale_price": 32.99,
         "effective_price": 32.99
     },
+    "RSL No.4 Shuttlecock (PREORDER - Minimum 5 or more)": {
+        "name": "RSL No.4 Shuttlecock (PREORDER - Minimum 5 or more)",
+        "regular_price": 42.89,
+        "sale_price": 32.99,
+        "effective_price": 32.99
+    },
     "Chaopai Yellow Shuttlecock": {
         "name": "Chaopai Yellow Shuttlecock",
         "regular_price": 42.63,
@@ -191,12 +197,6 @@
         "sale_price": 30.99,
         "effective_price": 30.99
     },
-    "RSL No.4 Shuttlecock (PREORDER - Minimum 5 or more)": {
-        "name": "RSL No.4 Shuttlecock (PREORDER - Minimum 5 or more)",
-        "regular_price": 40.29,
-        "sale_price": 30.99,
-        "effective_price": 30.99
-    },
     "VICTOR Master NO.7 Feather Shuttlecock": {
         "name": "VICTOR Master NO.7 Feather Shuttlecock",
         "regular_price": 38.99,
@@ -223,9 +223,9 @@
     },
     "RSL DTL 82 Shuttlecock (PREORDER - Minimum 5 or more)": {
         "name": "RSL DTL 82 Shuttlecock (PREORDER - Minimum 5 or more)",
-        "regular_price": 31.19,
-        "sale_price": 23.99,
-        "effective_price": 23.99
+        "regular_price": 33.79,
+        "sale_price": 25.99,
+        "effective_price": 25.99
     },
     "LingMei Practice Shuttlecock": {
         "name": "LingMei Practice Shuttlecock",
@@ -244,6 +244,12 @@
         "regular_price": 20.8,
         "sale_price": 16.0,
         "effective_price": 16.0
+    },
+    "Victor New CarbonSonic Shuttlecock NCS 2025 (6 pc)": {
+        "name": "Victor New CarbonSonic Shuttlecock NCS 2025 (6 pc)",
+        "regular_price": 20.79,
+        "sale_price": 15.99,
+        "effective_price": 15.99
     },
     "VICTOR VNS-3000 Yellow Nylon Shuttlecock": {
         "name": "VICTOR VNS-3000 Yellow Nylon Shuttlecock",

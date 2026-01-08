@@ -47,12 +47,6 @@
         "sale_price": 47.99,
         "effective_price": 47.99
     },
-    "Aeroplane Black Label EG1130 Tournament Shuttlecock": {
-        "name": "Aeroplane Black Label EG1130 Tournament Shuttlecock",
-        "regular_price": 57.19,
-        "sale_price": 43.99,
-        "effective_price": 43.99
-    },
     "VICTOR Master NO.3 Feather Shuttlecock": {
         "name": "VICTOR Master NO.3 Feather Shuttlecock",
         "regular_price": 55.89,
@@ -92,6 +86,12 @@
     "Chaopai Special Plus Shuttlecock": {
         "name": "Chaopai Special Plus Shuttlecock",
         "regular_price": 51.99,
+        "sale_price": 39.99,
+        "effective_price": 39.99
+    },
+    "Aeroplane Black Label EG1130 Tournament Shuttlecock": {
+        "name": "Aeroplane Black Label EG1130 Tournament Shuttlecock",
+        "regular_price": 57.19,
         "sale_price": 39.99,
         "effective_price": 39.99
     },
@@ -323,8 +323,8 @@
         "sale_price": 14.5,
         "effective_price": 14.5
     },
-    "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow)": {
-        "name": "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow)",
+    "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow) - PREORDER": {
+        "name": "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow) - PREORDER",
         "regular_price": 18.85,
         "sale_price": 14.5,
         "effective_price": 14.5

@@ -143,6 +143,12 @@
         "sale_price": 34.99,
         "effective_price": 34.99
     },
+    "RSL No.3 Shuttlecock": {
+        "name": "RSL No.3 Shuttlecock",
+        "regular_price": 44.84,
+        "sale_price": 34.49,
+        "effective_price": 34.49
+    },
     "Victor Master Base Shuttlecock": {
         "name": "Victor Master Base Shuttlecock",
         "regular_price": 44.19,
@@ -203,6 +209,12 @@
         "sale_price": 30.99,
         "effective_price": 30.99
     },
+    "RSL No.5 Shuttlecock": {
+        "name": "RSL No.5 Shuttlecock",
+        "regular_price": 39.64,
+        "sale_price": 30.49,
+        "effective_price": 30.49
+    },
     "VICTOR Master NO.7 Feather Shuttlecock": {
         "name": "VICTOR Master NO.7 Feather Shuttlecock",
         "regular_price": 38.99,
@@ -214,6 +226,12 @@
         "regular_price": 38.99,
         "sale_price": 29.99,
         "effective_price": 29.99
+    },
+    "RSL No.7 Shuttlecock": {
+        "name": "RSL No.7 Shuttlecock",
+        "regular_price": 36.39,
+        "sale_price": 27.99,
+        "effective_price": 27.99
     },
     "Victor New CarbonSonic Shuttlecock NCS (12 pc)": {
         "name": "Victor New CarbonSonic Shuttlecock NCS (12 pc)",

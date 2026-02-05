@@ -137,6 +137,12 @@
         "sale_price": 35.99,
         "effective_price": 35.99
     },
+    "Yonex Aeroclear 20 Goose Feather Badminton Shuttlecock": {
+        "name": "Yonex Aeroclear 20 Goose Feather Badminton Shuttlecock",
+        "regular_price": 45.5,
+        "sale_price": 35.0,
+        "effective_price": 35.0
+    },
     "VICTOR Gold Feather Shuttlecock (PREORDER - Minimum 5 or more)": {
         "name": "VICTOR Gold Feather Shuttlecock (PREORDER - Minimum 5 or more)",
         "regular_price": 45.49,

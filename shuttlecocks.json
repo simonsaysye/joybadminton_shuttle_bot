@@ -203,14 +203,14 @@
         "sale_price": 31.0,
         "effective_price": 31.0
     },
-    "LingMei 60 Shuttlecock": {
-        "name": "LingMei 60 Shuttlecock",
+    "Victor New CarbonSonic Max Shuttlecock (NCS-MAX) (12 pc) (PREORDER - Minimum 5 or More)": {
+        "name": "Victor New CarbonSonic Max Shuttlecock (NCS-MAX) (12 pc) (PREORDER - Minimum 5 or More)",
         "regular_price": 40.29,
         "sale_price": 30.99,
         "effective_price": 30.99
     },
-    "Victor New CarbonSonic Pro Shuttlecock (NCS-PRO) (12 pc)": {
-        "name": "Victor New CarbonSonic Pro Shuttlecock (NCS-PRO) (12 pc)",
+    "LingMei 60 Shuttlecock": {
+        "name": "LingMei 60 Shuttlecock",
         "regular_price": 40.29,
         "sale_price": 30.99,
         "effective_price": 30.99
@@ -239,14 +239,14 @@
         "sale_price": 27.99,
         "effective_price": 27.99
     },
-    "Victor New CarbonSonic Shuttlecock NCS (12 pc)": {
-        "name": "Victor New CarbonSonic Shuttlecock NCS (12 pc)",
-        "regular_price": 33.79,
+    "Victor New CarbonSonic Pro Shuttlecock (NCS-PRO) (12 pc)": {
+        "name": "Victor New CarbonSonic Pro Shuttlecock (NCS-PRO) (12 pc)",
+        "regular_price": 35.09,
         "sale_price": 26.99,
         "effective_price": 26.99
     },
-    "LingMei 40 Shuttlecock": {
-        "name": "LingMei 40 Shuttlecock",
+    "LingMei 40 Shuttlecock(PREORDER - Minimum 5 or more)": {
+        "name": "LingMei 40 Shuttlecock(PREORDER - Minimum 5 or more)",
         "regular_price": 33.79,
         "sale_price": 25.99,
         "effective_price": 25.99
@@ -259,6 +259,12 @@
     },
     "LingMei 10 Shuttlecock": {
         "name": "LingMei 10 Shuttlecock",
+        "regular_price": 29.89,
+        "sale_price": 22.99,
+        "effective_price": 22.99
+    },
+    "Victor New CarbonSonic Shuttlecock NCS (12 pc)": {
+        "name": "Victor New CarbonSonic Shuttlecock NCS (12 pc)",
         "regular_price": 29.89,
         "sale_price": 22.99,
         "effective_price": 22.99

@@ -113,14 +113,14 @@
         "sale_price": 38.99,
         "effective_price": 38.99
     },
-    "Victor Champion NO.3 Feather Shuttlecock": {
-        "name": "Victor Champion NO.3 Feather Shuttlecock",
+    "Aeroplane Green Label G1130 Tournament Shuttlecock": {
+        "name": "Aeroplane Green Label G1130 Tournament Shuttlecock",
         "regular_price": 48.09,
         "sale_price": 36.99,
         "effective_price": 36.99
     },
-    "Chaopai Pink Shuttlecock": {
-        "name": "Chaopai Pink Shuttlecock",
+    "Victor Champion NO.3 Feather Shuttlecock": {
+        "name": "Victor Champion NO.3 Feather Shuttlecock",
         "regular_price": 48.09,
         "sale_price": 36.99,
         "effective_price": 36.99
@@ -179,23 +179,17 @@
         "sale_price": 33.99,
         "effective_price": 33.99
     },
-    "Chaopai Silver Shuttlecock": {
-        "name": "Chaopai Silver Shuttlecock",
-        "regular_price": 42.89,
-        "sale_price": 32.99,
-        "effective_price": 32.99
+    "Chaopai Pink Shuttlecock": {
+        "name": "Chaopai Pink Shuttlecock",
+        "regular_price": 48.09,
+        "sale_price": 33.49,
+        "effective_price": 33.49
     },
     "VICTOR Champion NO.5 Feather Shuttlecock": {
         "name": "VICTOR Champion NO.5 Feather Shuttlecock",
         "regular_price": 42.89,
         "sale_price": 32.99,
         "effective_price": 32.99
-    },
-    "Chaopai Yellow Shuttlecock": {
-        "name": "Chaopai Yellow Shuttlecock",
-        "regular_price": 42.63,
-        "sale_price": 32.79,
-        "effective_price": 32.79
     },
     "RSL No.4 Shuttlecock": {
         "name": "RSL No.4 Shuttlecock",
@@ -224,6 +218,18 @@
     "LingMei 60 Shuttlecock": {
         "name": "LingMei 60 Shuttlecock",
         "regular_price": 40.29,
+        "sale_price": 30.99,
+        "effective_price": 30.99
+    },
+    "Chaopai Yellow Shuttlecock": {
+        "name": "Chaopai Yellow Shuttlecock",
+        "regular_price": 42.63,
+        "sale_price": 30.99,
+        "effective_price": 30.99
+    },
+    "Chaopai Silver Shuttlecock": {
+        "name": "Chaopai Silver Shuttlecock",
+        "regular_price": 42.89,
         "sale_price": 30.99,
         "effective_price": 30.99
     },
@@ -262,6 +268,12 @@
         "regular_price": 35.09,
         "sale_price": 26.99,
         "effective_price": 26.99
+    },
+    "RSL RS200 Shuttlecock": {
+        "name": "RSL RS200 Shuttlecock",
+        "regular_price": 33.79,
+        "sale_price": 25.99,
+        "effective_price": 25.99
     },
     "RSL DTL 82 Shuttlecock": {
         "name": "RSL DTL 82 Shuttlecock",

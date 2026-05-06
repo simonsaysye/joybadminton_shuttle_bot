@@ -95,8 +95,8 @@
         "sale_price": 39.99,
         "effective_price": 39.99
     },
-    "Aeroplane Black Label EG1130 Tournament Shuttlecock - PREORDER  (SHIPS 5/10)": {
-        "name": "Aeroplane Black Label EG1130 Tournament Shuttlecock - PREORDER  (SHIPS 5/10)",
+    "Aeroplane Black Label EG1130 Tournament Shuttlecock": {
+        "name": "Aeroplane Black Label EG1130 Tournament Shuttlecock",
         "regular_price": 51.99,
         "sale_price": 39.99,
         "effective_price": 39.99
@@ -136,6 +136,12 @@
         "regular_price": 48.09,
         "sale_price": 36.99,
         "effective_price": 36.99
+    },
+    "Aeroplane Red Label SG1130 Tournament Shuttlecock": {
+        "name": "Aeroplane Red Label SG1130 Tournament Shuttlecock",
+        "regular_price": 46.79,
+        "sale_price": 35.99,
+        "effective_price": 35.99
     },
     "Yonex Aeroclear 20 Goose Feather Badminton Shuttlecock": {
         "name": "Yonex Aeroclear 20 Goose Feather Badminton Shuttlecock",

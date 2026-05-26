@@ -74,7 +74,6 @@ def fetch_current_data():
                     pass
 
         # Store in dictionary keyed by Name for easy comparison
-        # Logic: If sale price exists, that's the "effective" price.
         effective_price = sale_price if sale_price is not None else regular_price
         
         current_products[name] = {
@@ -100,10 +99,11 @@ def compare_data(old_data, new_data):
         if name not in old_data:
             changes.append(f"🆕 NEW: {name} - ${data['effective_price']}")
 
-    # 2. Check for Removed Products
+    # 2. Check for Removed Products (Updated to include old price)
     for name in old_data:
         if name not in new_data:
-            changes.append(f"❌ REMOVED: {name}")
+            old_price = old_data[name].get('effective_price')
+            changes.append(f"❌ REMOVED: {name} (Old Price: ${old_price})")
 
     # 3. Check for Price Changes
     for name, data in new_data.items():
@@ -111,7 +111,6 @@ def compare_data(old_data, new_data):
             old_price = old_data[name].get('effective_price')
             new_price = data.get('effective_price')
             
-            # Use a small epsilon for float comparison or just strict inequality
             if old_price is not None and new_price is not None:
                 if old_price != new_price:
                     diff = new_price - old_price

@@ -1,39 +1,39 @@
 {
+    "Yonex Aerosensa 50 Feather Shuttlecocks - PREORDER": {
+        "name": "Yonex Aerosensa 50 Feather Shuttlecocks - PREORDER",
+        "regular_price": 84.5,
+        "sale_price": 65.0,
+        "effective_price": 65.0
+    },
+    "Yonex Aerosensa 40 Feather Shuttlecock": {
+        "name": "Yonex Aerosensa 40 Feather Shuttlecock",
+        "regular_price": 81.9,
+        "sale_price": 63.0,
+        "effective_price": 63.0
+    },
     "Yonex New Official F-80 Shuttlecock": {
         "name": "Yonex New Official F-80 Shuttlecock",
         "regular_price": 81.89,
         "sale_price": 62.99,
         "effective_price": 62.99
     },
-    "Yonex Aerosensa 50 Feather Shuttlecocks - PREORDER": {
-        "name": "Yonex Aerosensa 50 Feather Shuttlecocks - PREORDER",
-        "regular_price": 75.4,
-        "sale_price": 58.0,
-        "effective_price": 58.0
+    "Yonex Aerosensa 30 Shuttlecocks": {
+        "name": "Yonex Aerosensa 30 Shuttlecocks",
+        "regular_price": 78.0,
+        "sale_price": 60.0,
+        "effective_price": 60.0
+    },
+    "Yonex Aerosensa 20 Feather Shuttlecock": {
+        "name": "Yonex Aerosensa 20 Feather Shuttlecock",
+        "regular_price": 71.5,
+        "sale_price": 55.0,
+        "effective_price": 55.0
     },
     "Victor x Marvel Avengers New CarbonSonic Synthetic Shuttlecock Set NCS-AVENGERS": {
         "name": "Victor x Marvel Avengers New CarbonSonic Synthetic Shuttlecock Set NCS-AVENGERS",
         "regular_price": 71.49,
         "sale_price": 54.99,
         "effective_price": 54.99
-    },
-    "Yonex Aerosensa 30 Shuttlecocks": {
-        "name": "Yonex Aerosensa 30 Shuttlecocks",
-        "regular_price": 70.2,
-        "sale_price": 54.0,
-        "effective_price": 54.0
-    },
-    "Yonex Aerosensa 40 Feather Shuttlecock": {
-        "name": "Yonex Aerosensa 40 Feather Shuttlecock",
-        "regular_price": 70.2,
-        "sale_price": 54.0,
-        "effective_price": 54.0
-    },
-    "Yonex Aerosensa 20 Feather Shuttlecock": {
-        "name": "Yonex Aerosensa 20 Feather Shuttlecock",
-        "regular_price": 63.7,
-        "sale_price": 49.0,
-        "effective_price": 49.0
     },
     "Victor Master Ace Shuttlecock": {
         "name": "Victor Master Ace Shuttlecock",
@@ -47,6 +47,18 @@
         "sale_price": 47.99,
         "effective_price": 47.99
     },
+    "Yonex Aeroclear 30 Goose Feather Badminton Shuttlecock": {
+        "name": "Yonex Aeroclear 30 Goose Feather Badminton Shuttlecock",
+        "regular_price": 58.5,
+        "sale_price": 45.0,
+        "effective_price": 45.0
+    },
+    "Yonex Aerosensa 10 Feather Shuttlecock": {
+        "name": "Yonex Aerosensa 10 Feather Shuttlecock",
+        "regular_price": 58.5,
+        "sale_price": 45.0,
+        "effective_price": 45.0
+    },
     "RSL Ultimate Tournament Shuttlecock": {
         "name": "RSL Ultimate Tournament Shuttlecock",
         "regular_price": 55.89,
@@ -59,23 +71,11 @@
         "sale_price": 42.99,
         "effective_price": 42.99
     },
-    "Yonex Aerosensa 10 Feather Shuttlecock (PREORDER - Minimum 5 or more)": {
-        "name": "Yonex Aerosensa 10 Feather Shuttlecock (PREORDER - Minimum 5 or more)",
-        "regular_price": 54.6,
-        "sale_price": 42.0,
-        "effective_price": 42.0
-    },
     "Aeroplane Black Label Gold EG1130LE Tournament Shuttlecock": {
         "name": "Aeroplane Black Label Gold EG1130LE Tournament Shuttlecock",
         "regular_price": 54.59,
         "sale_price": 41.99,
         "effective_price": 41.99
-    },
-    "Yonex Aeroclear 30 Goose Feather Badminton Shuttlecock": {
-        "name": "Yonex Aeroclear 30 Goose Feather Badminton Shuttlecock",
-        "regular_price": 53.3,
-        "sale_price": 41.0,
-        "effective_price": 41.0
     },
     "Victor Master NO.5 Feather Shuttlecock": {
         "name": "Victor Master NO.5 Feather Shuttlecock",
@@ -191,6 +191,12 @@
         "sale_price": 33.49,
         "effective_price": 33.49
     },
+    "Yonex Aeroclub TR Feather Shuttlecock": {
+        "name": "Yonex Aeroclub TR Feather Shuttlecock",
+        "regular_price": 42.9,
+        "sale_price": 33.0,
+        "effective_price": 33.0
+    },
     "VICTOR Champion NO.5 Feather Shuttlecock": {
         "name": "VICTOR Champion NO.5 Feather Shuttlecock",
         "regular_price": 42.89,
@@ -205,12 +211,6 @@
     },
     "Yonex League 7 Feather Shuttlecock": {
         "name": "Yonex League 7 Feather Shuttlecock",
-        "regular_price": 40.3,
-        "sale_price": 31.0,
-        "effective_price": 31.0
-    },
-    "Yonex Aeroclub TR Feather Shuttlecock": {
-        "name": "Yonex Aeroclub TR Feather Shuttlecock",
         "regular_price": 40.3,
         "sale_price": 31.0,
         "effective_price": 31.0
@@ -377,8 +377,8 @@
         "sale_price": 14.5,
         "effective_price": 14.5
     },
-    "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow) - PREORDER": {
-        "name": "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow) - PREORDER",
+    "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow)": {
+        "name": "Yonex Mavis 350 Fast Speed Nylon Shuttlecocks (Yellow)",
         "regular_price": 18.85,
         "sale_price": 14.5,
         "effective_price": 14.5

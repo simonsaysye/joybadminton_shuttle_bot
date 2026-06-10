@@ -1,4 +1,10 @@
 {
+    "Yonex New Official F-80 Shuttlecock": {
+        "name": "Yonex New Official F-80 Shuttlecock",
+        "regular_price": 88.4,
+        "sale_price": 67.99,
+        "effective_price": 67.99
+    },
     "Yonex Aerosensa 50 Feather Shuttlecocks": {
         "name": "Yonex Aerosensa 50 Feather Shuttlecocks",
         "regular_price": 84.5,
@@ -10,12 +16,6 @@
         "regular_price": 81.9,
         "sale_price": 63.0,
         "effective_price": 63.0
-    },
-    "Yonex New Official F-80 Shuttlecock": {
-        "name": "Yonex New Official F-80 Shuttlecock",
-        "regular_price": 81.89,
-        "sale_price": 62.99,
-        "effective_price": 62.99
     },
     "Yonex Aerosensa 30 Shuttlecocks": {
         "name": "Yonex Aerosensa 30 Shuttlecocks",
@@ -245,8 +245,8 @@
         "sale_price": 29.99,
         "effective_price": 29.99
     },
-    "VICTOR Master NO.7 Feather Shuttlecock": {
-        "name": "VICTOR Master NO.7 Feather Shuttlecock",
+    "VICTOR Master NO.7 Feather Shuttlecock (Preorder 5+ Minimum)": {
+        "name": "VICTOR Master NO.7 Feather Shuttlecock (Preorder 5+ Minimum)",
         "regular_price": 38.99,
         "sale_price": 29.99,
         "effective_price": 29.99

@@ -47,6 +47,12 @@
         "sale_price": 47.99,
         "effective_price": 47.99
     },
+    "RSL Century Tournament Shuttlecock": {
+        "name": "RSL Century Tournament Shuttlecock",
+        "regular_price": 61.09,
+        "sale_price": 46.99,
+        "effective_price": 46.99
+    },
     "Yonex Aeroclear 30 Goose Feather Badminton Shuttlecock": {
         "name": "Yonex Aeroclear 30 Goose Feather Badminton Shuttlecock",
         "regular_price": 58.5,
